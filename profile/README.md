@@ -19,4 +19,4 @@ We never ask for your passwords and never log in to your accounts. We never prom
 
 BanOver is independent and is not affiliated with any platform it works with.
 
-[To confirm: domain] · [To confirm: contact email]
+[banover.com](https://banover.com) · [help@banover.com](mailto:help@banover.com)
